@@ -5,12 +5,13 @@
 bankruptcylawyerreview.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- How to Review Your Bankruptcy Case: https://bankruptcylawyerreview.org/
-- Understanding Your Bankruptcy Case File: https://bankruptcylawyerreview.org/case-file.html
 - How to Review Your Bankruptcy Attorney's Billing: https://bankruptcylawyerreview.org/billing-review.html
+- Understanding Your Bankruptcy Case File: https://bankruptcylawyerreview.org/case-file.html
 - Common Issues in Bankruptcy Representation: https://bankruptcylawyerreview.org/common-issues.html
-- Your Rights as a Bankruptcy Client: https://bankruptcylawyerreview.org/your-rights.html
 - How to Read Your Bankruptcy Docket: https://bankruptcylawyerreview.org/docket-reading.html
+- How to Review Your Bankruptcy Case: https://bankruptcylawyerreview.org/
+- Your Rights as a Bankruptcy Client: https://bankruptcylawyerreview.org/your-rights.html
+- Privacy Policy: https://bankruptcylawyerreview.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

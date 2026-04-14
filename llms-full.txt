@@ -6,8 +6,8 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## How to Review Your Bankruptcy Case [2026 Guide]
-Source: https://bankruptcylawyerreview.org/
+## How to Review Your Bankruptcy Attorney's Billing
+Source: https://bankruptcylawyerreview.org/billing-review.html
 
 bankruptcylawyerreview.org
 ☰
@@ -19,16 +19,386 @@ Common Issues in Bankruptcy
 Your Rights as a
 How to Read Your
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
-Lawyerreview Bankruptcy -- Your Complete Filing Guide for 2026
+Reviewing Your Attorney's Billing
+
+Home›How to Review Your Bankruptcy Attorney's Billing | bankruptcylawyerreview.org›Reviewing Your Attorney's Billing
+
+Understanding bankruptcy attorney billing
+
+Bankruptcy attorney fees are subject to court oversight. Understanding how fees work and how to review them protects your interests.
+
+Fee disclosure requirements
+
+Under 11 U.S.C. Section 329, your attorney must file a disclosure statement with the court detailing all compensation received or agreed to be received in connection with your case. This is public record and appears on the court docket.
+
+What to check
+
+Does the fee match your agreement? - Compare the court disclosure to your retainer agreement
+
+Were additional fees charged? - Some work may be billed separately. Check if these were disclosed
+
+Payment timing - In Chapter 7, most fees are paid before filing. In Chapter 13, fees may be paid through the plan
+
+Fee applications - In Chapter 13, attorneys may file fee applications for additional work. These require court approval
+
+Court oversight of fees
+
+Bankruptcy courts have the authority to review attorney fees and order disgorgement (return) of excessive fees under Section 329(b). Fees must be reasonable considering the nature, extent, and value of services provided.
+
+11 U.S.C. Section 329(b): "If [the] compensation exceeds the reasonable value of any such services, the court may cancel any such agreement, or order the return of any such payment, to the extent excessive."
+
+Note: If you believe your attorney's fees were excessive, you can raise this issue with the court or the U.S. Trustee's office. The U.S. Trustee monitors attorney fees in bankruptcy cases as part of their oversight role.
+
+← Back to bankruptcylawyerreview.org
+
+Related Topics
+
+1328(f) Discharge Screener
+Automatic Stay Guide
+Means Test Calculator
+Chapter 7 vs 13
+How to File Bankruptcy
+Affordable Legal Help
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+Understanding Your Bankruptcy Case
+How to Review Your
+Common Issues in Bankruptcy
+Your Rights as a
+How to Read Your
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: April 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## Understanding Your Bankruptcy Case File
+Source: https://bankruptcylawyerreview.org/case-file.html
+
+bankruptcylawyerreview.org
+☰
+
+Home
+Understanding Your Bankruptcy Case
+How to Review Your
+Common Issues in Bankruptcy
+Your Rights as a
+How to Read Your
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+Understanding Your Bankruptcy Case File
+
+Home›Understanding Your Bankruptcy Case File | bankruptcylawyerreview.org›Understanding Your Bankruptcy Case File
+
+What is in your bankruptcy case file
+
+Your bankruptcy case file contains every document filed with the court on your behalf. Understanding these documents helps you verify that your case was handled correctly.
+
+The petition and schedules
+
+Voluntary Petition - The document that officially starts your case. Verify your name, address, and selected chapter are correct
+
+Schedule A/B - Lists all your property. Make sure nothing is missing or incorrectly valued
+
+Schedule C - Lists the exemptions that protect your property. Verify the correct exemption scheme was used
+
+Schedule D - Secured creditors (mortgage, car loans). Check amounts and collateral descriptions
+
+Schedule E/F - Priority and unsecured creditors. Verify all debts are listed
+
+Schedule I/J - Your income and expenses. These should accurately reflect your financial situation
+
+The Statement of Financial Affairs (SOFA)
+
+This is a detailed questionnaire about your financial history - income, transfers, lawsuits, payments to creditors, and more. Inaccuracies here can lead to serious problems, including denial of discharge.
+
+Accessing your file
+
+You can access your case file through PACER at pacer.uscourts.gov (fees apply, typically $0.10 per page). You can also request copies from your attorney or visit the bankruptcy court clerk's office in person.
+
+Your right to your file: Under Model Rule 1.16(d), when representation ends, an attorney must surrender the client's file. You are entitled to your own case documents.
+
+← Back to bankruptcylawyerreview.org
+
+Related Topics
+
+1328(f) Discharge Screener
+Automatic Stay Guide
+Means Test Calculator
+Chapter 7 vs 13
+How to File Bankruptcy
+Affordable Legal Help
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+Understanding Your Bankruptcy Case
+How to Review Your
+Common Issues in Bankruptcy
+Your Rights as a
+How to Read Your
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: April 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## Common Issues in Bankruptcy Representation
+Source: https://bankruptcylawyerreview.org/common-issues.html
+
+bankruptcylawyerreview.org
+☰
+
+Home
+Understanding Your Bankruptcy Case
+How to Review Your
+Common Issues in Bankruptcy
+Your Rights as a
+How to Read Your
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+Common Issues in Bankruptcy Representation
+
+Home›Common Issues in Bankruptcy Representation | bankruptcylawyerreview.org›Common Issues in Bankruptcy Representation
+
+Issues that arise in bankruptcy cases
+
+Most bankruptcy cases proceed smoothly. When problems do occur, they often follow recognizable patterns.
+
+Filing accuracy problems
+
+Missing creditors - If a creditor is not listed in your schedules, that debt may not be discharged
+
+Incorrect asset values - Undervaluing assets can lead to trustee objections; overvaluing can reduce available exemptions
+
+Wrong exemptions - Each state has different exemption laws. Using the wrong scheme can put assets at risk
+
+Income miscalculations - Errors on the means test can result in case dismissal or forced conversion
+
+Communication breakdowns
+
+Unreturned calls - Attorneys must keep clients reasonably informed under Model Rule 1.4
+
+No explanation of court orders - You should understand what every court order means for your case
+
+Surprises at the 341 meeting - Your attorney should prepare you for the trustee's questions
+
+Deadline issues
+
+Missed filing deadlines - Tax returns, pay stubs, and certificates must be filed within specific timeframes
+
+Late plan payments - In Chapter 13, failing to make timely payments can result in dismissal
+
+Failure to respond to trustee requests - The trustee can move to dismiss if document requests go unanswered
+
+If you spot a problem: First, raise the issue directly with your attorney in writing (email creates a record). If the attorney does not respond or resolve the issue, you can contact the U.S. Trustee's office or your state bar association.
+
+← Back to bankruptcylawyerreview.org
+
+Related Topics
+
+1328(f) Discharge Screener
+Automatic Stay Guide
+Means Test Calculator
+Chapter 7 vs 13
+How to File Bankruptcy
+Affordable Legal Help
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+Understanding Your Bankruptcy Case
+How to Review Your
+Common Issues in Bankruptcy
+Your Rights as a
+How to Read Your
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: April 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## How to Read Your Bankruptcy Docket
+Source: https://bankruptcylawyerreview.org/docket-reading.html
+
+bankruptcylawyerreview.org
+☰
+
+Home
+Understanding Your Bankruptcy Case
+How to Review Your
+Common Issues in Bankruptcy
+Your Rights as a
+How to Read Your
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+How to Read Your Bankruptcy Docket
+
+Home›How to Read Your Bankruptcy Docket | bankruptcylawyerreview.org›How to Read Your Bankruptcy Docket
+
+Understanding the court docket in your case
+
+The docket is the court's official record of everything that has happened in your case. Learning to read it gives you direct access to your case status without relying solely on your attorney.
+
+What is on the docket
+
+Petition and schedules - Your initial filing documents
+
+Proofs of claim - Claims filed by your creditors
+
+Court orders - Every order entered by the judge
+
+Motions - Requests filed by any party (your attorney, creditors, the trustee)
+
+Notices - Meeting dates, deadlines, discharge notices
+
+Fee disclosures - Your attorney's disclosed compensation
+
+How to access the docket
+
+PACER (pacer.uscourts.gov) provides online access to bankruptcy court dockets. You need a free PACER account. Documents cost $0.10 per page with a $3.00 cap per document. You can also visit the clerk's office in person.
+
+Key docket entries to look for
+
+Claims filed vs. claims scheduled - Compare what creditors claim against what your schedules list
+
+Deadlines - The claims bar date, discharge deadline, and plan confirmation date
+
+Trustee reports - The trustee's report of no distribution (Chapter 7) or plan progress (Chapter 13)
+
+Attorney fee disclosures - Compare to what you actually paid
+
+Free alternative: The RECAP Archive at courtlistener.com/recap provides free access to millions of PACER documents that have been previously purchased and donated to the public domain.
+
+← Back to bankruptcylawyerreview.org
+
+Related Topics
+
+1328(f) Discharge Screener
+Automatic Stay Guide
+Means Test Calculator
+Chapter 7 vs 13
+How to File Bankruptcy
+Affordable Legal Help
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+Understanding Your Bankruptcy Case
+How to Review Your
+Common Issues in Bankruptcy
+Your Rights as a
+How to Read Your
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: April 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## How to Review Your Bankruptcy Case [2026 Guide]
+Source: https://bankruptcylawyerreview.org/
+
+Skip to main content
+
+bankruptcylawyerreview.org
+☰
+
+Home
+Understanding Your Bankruptcy Case
+How to Review Your
+Common Issues in Bankruptcy
+Your Rights as a
+How to Read Your
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+Lawyerreview Bankruptcy - Your Complete Filing Guide for 2026
 
 Understanding your bankruptcy case file, reviewing billing, spotting common issues, and knowing your rights as a client. Practical guidance for evaluating the representation you are receiving.
 
 Understanding Your Case File
 Billing Review
 
-You have the right to review every document filed on your behalf -- and you should
+You have the right to review every document filed on your behalf - and you should
 
 Explore this guide
 
@@ -99,7 +469,7 @@ This site is free and open-source. Donations support the Open Bankruptcy Project
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -239,272 +609,6 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Understanding Your Bankruptcy Case File
-Source: https://bankruptcylawyerreview.org/case-file.html
-
-bankruptcylawyerreview.org
-☰
-
-Home
-Understanding Your Bankruptcy Case
-How to Review Your
-Common Issues in Bankruptcy
-Your Rights as a
-How to Read Your
-
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
-
-Understanding Your Bankruptcy Case File
-
-What is in your bankruptcy case file
-
-Your bankruptcy case file contains every document filed with the court on your behalf. Understanding these documents helps you verify that your case was handled correctly.
-
-The petition and schedules
-
-Voluntary Petition -- The document that officially starts your case. Verify your name, address, and selected chapter are correct
-
-Schedule A/B -- Lists all your property. Make sure nothing is missing or incorrectly valued
-
-Schedule C -- Lists the exemptions that protect your property. Verify the correct exemption scheme was used
-
-Schedule D -- Secured creditors (mortgage, car loans). Check amounts and collateral descriptions
-
-Schedule E/F -- Priority and unsecured creditors. Verify all debts are listed
-
-Schedule I/J -- Your income and expenses. These should accurately reflect your financial situation
-
-The Statement of Financial Affairs (SOFA)
-
-This is a detailed questionnaire about your financial history -- income, transfers, lawsuits, payments to creditors, and more. Inaccuracies here can lead to serious problems, including denial of discharge.
-
-Accessing your file
-
-You can access your case file through PACER at pacer.uscourts.gov (fees apply, typically $0.10 per page). You can also request copies from your attorney or visit the bankruptcy court clerk's office in person.
-
-Your right to your file: Under Model Rule 1.16(d), when representation ends, an attorney must surrender the client's file. You are entitled to your own case documents.
-
-← Back to bankruptcylawyerreview.org
-
-Related Topics
-
-1328(f) Discharge Screener
-Automatic Stay Guide
-Means Test Calculator
-Chapter 7 vs 13
-How to File Bankruptcy
-Affordable Legal Help
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Home
-Understanding Your Bankruptcy Case
-How to Review Your
-Common Issues in Bankruptcy
-Your Rights as a
-How to Read Your
-
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-
-Last updated: April 2026
-
-Privacy | Terms | Open Bankruptcy Project
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
----
-
-## How to Review Your Bankruptcy Attorney's Billing
-Source: https://bankruptcylawyerreview.org/billing-review.html
-
-bankruptcylawyerreview.org
-☰
-
-Home
-Understanding Your Bankruptcy Case
-How to Review Your
-Common Issues in Bankruptcy
-Your Rights as a
-How to Read Your
-
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
-
-Reviewing Your Attorney's Billing
-
-Understanding bankruptcy attorney billing
-
-Bankruptcy attorney fees are subject to court oversight. Understanding how fees work and how to review them protects your interests.
-
-Fee disclosure requirements
-
-Under 11 U.S.C. Section 329, your attorney must file a disclosure statement with the court detailing all compensation received or agreed to be received in connection with your case. This is public record and appears on the court docket.
-
-What to check
-
-Does the fee match your agreement? -- Compare the court disclosure to your retainer agreement
-
-Were additional fees charged? -- Some work may be billed separately. Check if these were disclosed
-
-Payment timing -- In Chapter 7, most fees are paid before filing. In Chapter 13, fees may be paid through the plan
-
-Fee applications -- In Chapter 13, attorneys may file fee applications for additional work. These require court approval
-
-Court oversight of fees
-
-Bankruptcy courts have the authority to review attorney fees and order disgorgement (return) of excessive fees under Section 329(b). Fees must be reasonable considering the nature, extent, and value of services provided.
-
-11 U.S.C. Section 329(b): "If [the] compensation exceeds the reasonable value of any such services, the court may cancel any such agreement, or order the return of any such payment, to the extent excessive."
-
-Note: If you believe your attorney's fees were excessive, you can raise this issue with the court or the U.S. Trustee's office. The U.S. Trustee monitors attorney fees in bankruptcy cases as part of their oversight role.
-
-← Back to bankruptcylawyerreview.org
-
-Related Topics
-
-1328(f) Discharge Screener
-Automatic Stay Guide
-Means Test Calculator
-Chapter 7 vs 13
-How to File Bankruptcy
-Affordable Legal Help
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Home
-Understanding Your Bankruptcy Case
-How to Review Your
-Common Issues in Bankruptcy
-Your Rights as a
-How to Read Your
-
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-
-Last updated: April 2026
-
-Privacy | Terms | Open Bankruptcy Project
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
----
-
-## Common Issues in Bankruptcy Representation
-Source: https://bankruptcylawyerreview.org/common-issues.html
-
-bankruptcylawyerreview.org
-☰
-
-Home
-Understanding Your Bankruptcy Case
-How to Review Your
-Common Issues in Bankruptcy
-Your Rights as a
-How to Read Your
-
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
-
-Common Issues in Bankruptcy Representation
-
-Issues that arise in bankruptcy cases
-
-Most bankruptcy cases proceed smoothly. When problems do occur, they often follow recognizable patterns.
-
-Filing accuracy problems
-
-Missing creditors -- If a creditor is not listed in your schedules, that debt may not be discharged
-
-Incorrect asset values -- Undervaluing assets can lead to trustee objections; overvaluing can reduce available exemptions
-
-Wrong exemptions -- Each state has different exemption laws. Using the wrong scheme can put assets at risk
-
-Income miscalculations -- Errors on the means test can result in case dismissal or forced conversion
-
-Communication breakdowns
-
-Unreturned calls -- Attorneys must keep clients reasonably informed under Model Rule 1.4
-
-No explanation of court orders -- You should understand what every court order means for your case
-
-Surprises at the 341 meeting -- Your attorney should prepare you for the trustee's questions
-
-Deadline issues
-
-Missed filing deadlines -- Tax returns, pay stubs, and certificates must be filed within specific timeframes
-
-Late plan payments -- In Chapter 13, failing to make timely payments can result in dismissal
-
-Failure to respond to trustee requests -- The trustee can move to dismiss if document requests go unanswered
-
-If you spot a problem: First, raise the issue directly with your attorney in writing (email creates a record). If the attorney does not respond or resolve the issue, you can contact the U.S. Trustee's office or your state bar association.
-
-← Back to bankruptcylawyerreview.org
-
-Related Topics
-
-1328(f) Discharge Screener
-Automatic Stay Guide
-Means Test Calculator
-Chapter 7 vs 13
-How to File Bankruptcy
-Affordable Legal Help
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Home
-Understanding Your Bankruptcy Case
-How to Review Your
-Common Issues in Bankruptcy
-Your Rights as a
-How to Read Your
-
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-
-Last updated: April 2026
-
-Privacy | Terms | Open Bankruptcy Project
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
----
-
 ## Your Rights as a Bankruptcy Client
 Source: https://bankruptcylawyerreview.org/your-rights.html
 
@@ -518,9 +622,11 @@ Common Issues in Bankruptcy
 Your Rights as a
 How to Read Your
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Your Rights as a Bankruptcy Client
+
+Home›Your Rights as a Bankruptcy Client | bankruptcylawyerreview.org›Your Rights as a Bankruptcy Client
 
 What you are entitled to as a client
 
@@ -591,94 +697,72 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## How to Read Your Bankruptcy Docket
-Source: https://bankruptcylawyerreview.org/docket-reading.html
+## Privacy Policy - bankruptcylawyerreview.org
+Source: https://bankruptcylawyerreview.org/privacy.html
 
 bankruptcylawyerreview.org
-☰
 
 Home
-Understanding Your Bankruptcy Case
-How to Review Your
-Common Issues in Bankruptcy
-Your Rights as a
-How to Read Your
+Privacy
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Privacy Policy
 
-How to Read Your Bankruptcy Docket
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-Understanding the court docket in your case
+Data We Collect
 
-The docket is the court's official record of everything that has happened in your case. Learning to read it gives you direct access to your case status without relying solely on your attorney.
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-What is on the docket
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Petition and schedules -- Your initial filing documents
+What We Don't Do
 
-Proofs of claim -- Claims filed by your creditors
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-Court orders -- Every order entered by the judge
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-Motions -- Requests filed by any party (your attorney, creditors, the trustee)
+Cookies
 
-Notices -- Meeting dates, deadlines, discharge notices
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-Fee disclosures -- Your attorney's disclosed compensation
+Third-Party Services
 
-How to access the docket
+Google Analytics (GA4) - aggregate traffic measurement
 
-PACER (pacer.uscourts.gov) provides online access to bankruptcy court dockets. You need a free PACER account. Documents cost $0.10 per page with a $3.00 cap per document. You can also visit the clerk's office in person.
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-Key docket entries to look for
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-Claims filed vs. claims scheduled -- Compare what creditors claim against what your schedules list
+GitHub Pages - hosting
 
-Deadlines -- The claims bar date, discharge deadline, and plan confirmation date
+Contact Forms & Email
 
-Trustee reports -- The trustee's report of no distribution (Chapter 7) or plan progress (Chapter 13)
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-Attorney fee disclosures -- Compare to what you actually paid
+Children's Privacy
 
-Free alternative: The RECAP Archive at courtlistener.com/recap provides free access to millions of PACER documents that have been previously purchased and donated to the public domain.
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-← Back to bankruptcylawyerreview.org
+Data Retention
 
-Related Topics
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-1328(f) Discharge Screener
-Automatic Stay Guide
-Means Test Calculator
-Chapter 7 vs 13
-How to File Bankruptcy
-Affordable Legal Help
+Your Rights
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-♥ Sponsor
+Network Policy
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-Home
-Understanding Your Bankruptcy Case
-How to Review Your
-Common Issues in Bankruptcy
-Your Rights as a
-How to Read Your
+Changes
 
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-Last updated: April 2026
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-Privacy | Terms | Open Bankruptcy Project
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Open Bankruptcy Project -- openbankruptcyproject.org
+No ads. No affiliate links. No data sold. Supported by donations.
