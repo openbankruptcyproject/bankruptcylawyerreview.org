@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bankruptcylawyerreview.org/sitemap.xml
+
+Sitemap: https://bankruptcylawyerreview.org/sitemapindex.xml
