@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<meta charset="utf-8"/><meta content="width=device-width,initial-scale=1.0" name="viewport"/>
+<title>Engagement Letter Review Checklist - Bankruptcy Attorney Retainer Agreements</title>
+<meta content="A structured checklist for reviewing a bankruptcy attorney's engagement letter before signing. Scope clarity, fee basis, payor identity, supplemental-fee triggers, conflict disclosure, and termination terms. For debtors and for anyone auditing an existing retainer." name="description"/>
+<link href="https://bankruptcylawyerreview.org/engagement-letter-review.html" rel="canonical"/>
+<meta content="2026-04-17" name="last-modified"/>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Engagement Letter Review Checklist","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://openbankruptcyproject.org"},"datePublished":"2026-04-17","dateModified":"2026-04-17"}</script>
+<style>:root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--text:#e6edf3;--muted:#9eaab6;--accent:#58a6ff;--green:#3fb950;--red:#f85149;--yellow:#e3a835}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.7}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}nav{background:var(--surface);border-bottom:1px solid var(--border);padding:0.75rem 2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem}nav .site-name{color:#f0f6fc;font-weight:700;font-size:1.1rem}.nav-links{display:flex;gap:1.25rem;flex-wrap:wrap}.nav-links a{color:var(--muted);font-size:0.9rem}.nav-links a:hover{color:var(--accent);text-decoration:none}.nav-links a.active{color:var(--accent);font-weight:600}header{background:var(--surface);border-bottom:1px solid var(--border);padding:2.5rem 2rem;text-align:center}header h1{color:#f0f6fc;font-size:1.85rem;margin-bottom:0.5rem}header .subtitle{color:var(--muted);font-size:1rem;max-width:760px;margin:0 auto}main{max-width:820px;margin:0 auto;padding:2rem 1.5rem}.sec{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:1.75rem;margin-bottom:1.25rem}.sec h2{color:#f0f6fc;font-size:1.2rem;margin-bottom:0.75rem;padding-bottom:0.4rem;border-bottom:1px solid var(--border)}.sec h3{color:#f0f6fc;font-size:1rem;margin:1rem 0 0.4rem}.sec p{color:var(--text);margin-bottom:0.6rem;font-size:0.93rem}.sec ul,.sec ol{margin:0.5rem 0 0.5rem 1.4rem;font-size:0.93rem}.sec li{margin-bottom:0.3rem}.box{background:#21262d;border-left:3px solid var(--accent);padding:0.9rem 1.15rem;border-radius:0 6px 6px 0;margin:0.9rem 0}.box-w{border-left-color:var(--red)}.box-g{border-left-color:var(--green)}.box-y{border-left-color:var(--yellow)}.checklist{background:#1c2128;border-radius:6px;padding:1rem 1.2rem;margin:0.9rem 0}.checklist-item{padding:0.55rem 0;border-bottom:1px solid #2d333b;display:flex;align-items:start;gap:0.6rem;font-size:0.92rem}.checklist-item:last-child{border-bottom:none}.checklist-item .mark{color:var(--accent);font-weight:700;min-width:1.2rem}footer{background:var(--surface);border-top:1px solid var(--border);padding:1.75rem;text-align:center;margin-top:2.5rem}footer p{color:var(--muted);font-size:0.82rem;margin-bottom:0.4rem}footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:0.9rem;margin-top:0.6rem}footer .links a{color:var(--muted);font-size:0.82rem}</style>
+</head>
+<body>
+<nav><a class="site-name" href="/">bankruptcylawyerreview.org</a><div class="nav-links"><a href="/">Home</a><a href="/billing-review.html">Billing Review</a><a href="/lodestar.html">Lodestar</a><a href="/lodestar-worked-examples.html">Worked Examples</a><a href="/services-audit.html">Services Audit</a><a href="/no-look-fees.html">No-Look Fees</a><a class="active" href="/engagement-letter-review.html">Engagement Letter</a><a href="/states/">State Guides</a></div></nav>
+<header><h1>Engagement Letter Review Checklist</h1><p class="subtitle">Before you sign a retainer agreement with a bankruptcy attorney, read through this checklist. Each item is something that should be clear in writing. If it is not clear, ask. If the attorney will not clarify in writing, that is itself an answer.</p></header>
+<main>
+
+<div class="sec"><h2>Why the Engagement Letter Matters</h2><p>The engagement letter (also called "retainer agreement" or "fee agreement") is the contract between you and your bankruptcy attorney. It is the document that defines:</p>
+<ul>
+<li>Exactly what work the attorney will do for you</li>
+<li>How much you pay, when, and to whom</li>
+<li>What happens if something changes (conversion, dismissal, adversary, contested matter)</li>
+<li>What services are excluded and require an additional fee</li>
+</ul>
+<div class="box box-w"><p><strong>Key principle:</strong> The engagement letter is the best evidence of what you actually agreed to. If a dispute arises later about scope, fees, or duty, the written document controls - not verbal assurances.</p></div>
+<p>The same letter is also the evidence used by the court and the U.S. Trustee under <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a> to evaluate whether the attorney's <a href="https://www.law.cornell.edu/uscode/text/11/329#a_0" rel="noopener" target="_blank">Section 329(a)</a> disclosure matches reality.</p>
+</div>
+
+<div class="sec"><h2>Section 1 - Basic Terms (Must Be in Writing)</h2>
+<div class="checklist">
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Attorney's legal name and bar number.</strong> Not just the firm name - the specific attorney responsible for your case.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Bar admission information.</strong> Which state bars the attorney is admitted in. Critical if your case is in a state where the attorney is not primarily admitted.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Date of the engagement letter.</strong> With space for your signature date.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Client identity.</strong> Are you signing personally, on behalf of a business, or both? This determines who the attorney represents.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Chapter of bankruptcy covered.</strong> Chapter 7? Chapter 13? Chapter 11 (Subchapter V or standard)? The scope is chapter-specific.</span></div>
+</div>
+</div>
+
+<div class="sec"><h2>Section 2 - Scope of Services</h2>
+<p>This is the most important section to read carefully. An ambiguous scope is how attorneys later justify charging extra fees.</p>
+<div class="checklist">
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>What services are included?</strong> Petition preparation, schedules, SOFA, Section 341 meeting, plan confirmation, and any chapter-specific routine work should be listed explicitly.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>What services are excluded?</strong> Common exclusions: adversary proceedings, contested confirmation, stay relief litigation, objections to claims, plan modifications, dischargeability disputes, tax litigation.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>How are excluded services handled?</strong> Separate hourly rate? Separate retainer? Written amendment to engagement? Get the process in writing.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Conversion between chapters.</strong> What happens to the fee arrangement if Chapter 7 converts to 13, or 13 converts to 7, or 11 converts to 7?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Dismissal.</strong> What happens if the case is dismissed before discharge or confirmation? Is any portion of the fee refundable? Under what circumstances?</span></div>
+</div>
+<div class="box box-y"><p><strong>Common trap:</strong> "Scope of representation includes all matters necessary to conclude the bankruptcy case." This phrasing is so broad it means nothing - and it lets the attorney later define "necessary" however they want. Ask for specific scope.</p></div>
+</div>
+
+<div class="sec"><h2>Section 3 - Fees and Payment</h2>
+<div class="checklist">
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Total fee amount (if flat fee).</strong> The single dollar figure, stated plainly.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Hourly rates (if hourly).</strong> Rate for each person who may bill - lead attorney, associate, paralegal, staff. If multiple rates, list each.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Minimum retainer required.</strong> Up-front payment before work begins. Where is it held? In a trust account?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Draw-down mechanism.</strong> If a retainer is held in trust, when and how does the attorney draw against it?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Filing fees and costs.</strong> Are court filing fees, credit counseling fees, and copy charges included in the fee or billed separately?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Payment schedule.</strong> Pre-petition installments? Through-the-plan payments? Post-petition deferred arrangements?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Billing frequency.</strong> How often will you receive an itemized invoice? What information will each invoice include?</span></div>
+</div>
+<p>Under <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a>, your attorney must file a statement of compensation with the court disclosing the fee arrangement. Ask for a copy of what they intend to file.</p>
+</div>
+
+<div class="sec"><h2>Section 4 - Source of Payment</h2>
+<div class="checklist">
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Who is paying?</strong> Debtor personally, spouse, family member, business, third party?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>If a third party is paying, who do they represent?</strong> This matters for conflict-of-interest analysis.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>If a business is paying for an individual case</strong> (or vice versa), is that disclosed in the engagement letter and in Rule 2016(b)?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Any guarantors</strong> - i.e., someone other than the client who has agreed to pay if the client does not?</span></div>
+</div>
+<p>All of these must be disclosed to the court. See the <a href="https://section329.org/rule-2016b-red-flags.html">Rule 2016(b) red flags checklist</a> for how these issues play out downstream.</p>
+</div>
+
+<div class="sec"><h2>Section 5 - Conflicts of Interest</h2>
+<div class="checklist">
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Does the attorney represent any creditor</strong> that has a claim in your case?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Does the attorney represent your spouse</strong> if your spouse is not jointly filing?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Does the attorney represent a business</strong> you own? Or a business partner, co-owner, or co-signer?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>In Subchapter V:</strong> the attorney representing the debtor must meet the disinterestedness requirement of <a href="https://www.law.cornell.edu/uscode/text/11/1195" rel="noopener" target="_blank">Section 1195</a>/<a href="https://www.law.cornell.edu/uscode/text/11/327" rel="noopener" target="_blank">327</a>. The engagement should reference this.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Fee-sharing arrangements with non-attorneys</strong> (petition preparers, lead-generation services, referral platforms) must be disclosed.</span></div>
+</div>
+</div>
+
+<div class="sec"><h2>Section 6 - Communication and Staffing</h2>
+<div class="checklist">
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Who is the primary attorney</strong> you will communicate with?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Will other attorneys or staff</strong> work on your case? At what rates?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Who will appear at the Section 341 meeting</strong> - the attorney personally, or a substitute?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>How quickly will the attorney respond</strong> to your emails or calls? What is the expected turnaround?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Will you receive copies</strong> of filings, court orders, trustee correspondence, and creditor claims?</span></div>
+</div>
+</div>
+
+<div class="sec"><h2>Section 7 - Termination and Withdrawal</h2>
+<div class="checklist">
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>How can you terminate the engagement?</strong> What notice is required?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>How can the attorney withdraw?</strong> In a filed case, withdrawal requires court approval; the engagement should acknowledge this.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>If the attorney withdraws, what portion of the fee is refundable?</strong> And when?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Does the attorney have a retaining lien</strong> on your file? What conditions apply?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>What happens to your client file</strong> after representation ends? Electronic copy? Paper copy? Who pays for retrieval?</span></div>
+</div>
+</div>
+
+<div class="sec"><h2>Section 8 - Dispute Resolution and Fee Review</h2>
+<div class="checklist">
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Does the engagement require arbitration</strong> of fee disputes? Binding arbitration waives your right to go to court.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Does the engagement waive</strong> your right to challenge fees under <a href="https://www.law.cornell.edu/uscode/text/11/329#b_0" rel="noopener" target="_blank">Section 329(b)</a>? <strong>It cannot.</strong> Any such waiver is void as against the statutory supervisory authority of the bankruptcy court. But some engagements try.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Does the engagement require</strong> that you first pay disputed amounts before challenging them? This is separate from waiver and can be negotiated.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Does the engagement require</strong> any confidentiality provisions that would prevent you from disclosing fee arrangements to the court or UST? <strong>It cannot.</strong> Bankruptcy disclosure obligations override any private confidentiality agreement.</span></div>
+</div>
+<div class="box box-w"><p><strong>Red flag:</strong> If an engagement letter contains a clause preventing you from challenging fees in the bankruptcy court or disclosing them to the UST, that clause is not enforceable. But the presence of such a clause tells you something about the attorney's posture.</p></div>
+</div>
+
+<div class="sec"><h2>Section 9 - Specific Subchapter V Considerations</h2>
+<p>If the case is a Subchapter V small-business reorganization, additional items should appear:</p>
+<div class="checklist">
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Employment application acknowledgment.</strong> The attorney will file an application to be employed under <a href="https://www.law.cornell.edu/uscode/text/11/1195" rel="noopener" target="_blank">Section 1195</a>/<a href="https://www.law.cornell.edu/uscode/text/11/327" rel="noopener" target="_blank">327</a>. Is this covered in the engagement?</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Court approval of post-petition fees.</strong> Post-petition fees are paid from the estate only after court approval of a fee application under <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(a)</a>. The engagement should explain this mechanism.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Interaction with the Subchapter V trustee.</strong> The Subchapter V trustee has an independent role under <a href="https://www.law.cornell.edu/uscode/text/11/1183" rel="noopener" target="_blank">Section 1183</a>. The engagement should acknowledge the trustee's involvement and how your attorney will coordinate.</span></div>
+<div class="checklist-item"><span class="mark">&#10003;</span><span><strong>Plan filing timeline.</strong> Plans must be filed within 90 days of the order for relief (<a href="https://www.law.cornell.edu/uscode/text/11/1189" rel="noopener" target="_blank">Section 1189(b)</a>). Who is responsible for meeting this deadline, and what happens if missed?</span></div>
+</div>
+</div>
+
+<div class="sec"><h2>Red Flags Summary</h2>
+<div class="box box-w"><p><strong>Walk away (or ask serious questions) if any of these appear:</strong></p>
+<ul>
+<li>Scope described only in general terms, no specific services listed</li>
+<li>Attorney refuses to put additional assurances in writing</li>
+<li>Fee quoted verbally as "around" or "approximately" a number, not in writing</li>
+<li>No clear explanation of what happens on dismissal or conversion</li>
+<li>Arbitration clause that waives court oversight</li>
+<li>Clause prohibiting disclosure of fees to the UST or court</li>
+<li>Payment required to a non-attorney entity or third party</li>
+<li>No mention of Rule 2016(b) disclosure</li>
+<li>"Fee is non-refundable regardless of outcome" language without exception</li>
+<li>Engagement letter not signed by the specific attorney who will represent you</li>
+</ul>
+</div>
+</div>
+
+<div class="sec"><h2>If You Already Signed an Engagement Letter</h2>
+<p>If you are already in a case and have concerns about the engagement letter, you still have options:</p>
+<ol>
+<li><strong>Request a copy</strong> if you do not have one. Attorneys must provide clients with copies of engagement agreements on request.</li>
+<li><strong>Review against what was disclosed</strong> to the court under <a href="https://www.law.cornell.edu/rules/frbp/rule_2016" rel="noopener" target="_blank">Rule 2016(b)</a>. Discrepancies may be actionable.</li>
+<li><strong>Request itemized billing</strong> for all work performed. You are entitled to a detailed accounting.</li>
+<li><strong>Consult an independent attorney</strong> about fee reasonableness. A second opinion is often available for a fixed consultation fee.</li>
+<li><strong>Contact the U.S. Trustee</strong> if the arrangement involves undisclosed terms, excessive fees, or conflicts of interest.</li>
+<li><strong>File a <a href="https://www.law.cornell.edu/uscode/text/11/329#b_0" rel="noopener" target="_blank">Section 329(b)</a> motion</strong> through independent counsel, or request <a href="https://www.law.cornell.edu/rules/frbp/rule_2017" rel="noopener" target="_blank">Rule 2017</a> sua sponte review by the court.</li>
+</ol>
+</div>
+
+<div class="sec"><h2>Related Resources</h2>
+<ul>
+<li><a href="/billing-review.html">Line-by-line billing audit methodology</a></li>
+<li><a href="/lodestar.html">Lodestar methodology</a></li>
+<li><a href="/lodestar-worked-examples.html">Lodestar worked examples</a></li>
+<li><a href="/services-audit.html">Services-rendered vs services-charged audit</a></li>
+<li><a href="/no-look-fees.html">Chapter 13 no-look fees</a></li>
+<li><a href="https://section329.org/rule-2016b-disclosure.html">Rule 2016(b) disclosure requirements</a></li>
+<li><a href="https://section329.org/rule-2016b-red-flags.html">Rule 2016(b) red flags checklist</a></li>
+<li><a href="https://section329.org/329b-motion.html">Section 329(b) motion structure</a></li>
+<li><a href="https://section329.org/329-vs-330.html">Section 329 vs Section 330</a></li>
+</ul>
+</div>
+
+</main>
+<footer><p><strong>Open Bankruptcy Project</strong> - Free, open-source bankruptcy information</p><p>Research index only - not legal advice.</p><div class="links"><a href="https://openbankruptcyproject.org">OBP</a><a href="https://section329.org">section329.org</a><a href="https://1328f.com">1328f.com</a></div></footer>
+</body>
+</html>
